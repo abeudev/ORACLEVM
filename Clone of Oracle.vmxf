@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<Foundry>
+<VM>
+<ClientMetaData>
+<clientMetaDataAttributes/>
+<HistoryEventList/></ClientMetaData>
+<VMId type="string">52 cf 09 d7 c9 60 24 5b-11 41 8c 8a 71 3c 1c aa</VMId>
+<vmxPathName type="string">Clone of Oracle.vmx</vmxPathName></VM></Foundry>
